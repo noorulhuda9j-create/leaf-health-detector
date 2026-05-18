@@ -15,7 +15,7 @@
 -app shows health status, problems, and solutions
 ## App Screenshorts
 ### Home screen
-![Home Screen](home.png0)
+![Home Screen](home.png)
 ### result screen
 ![scan screen ](scan.png)
 ## Conclusion
