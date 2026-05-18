@@ -14,7 +14,7 @@
 -AI analyzes the image
 -app shows health status, problems, and solutions
 ## screenshorts
-![Home](screenshorts/home.png)
-![scan](screenshorts/scan.png)
+![Home](home.png)
+![scan](scan.png)
 ## Conclusion
 This project demostrates how AI can help farmers, gardeners, and students to detect plant diseases early and improve plant care.
