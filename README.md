@@ -13,5 +13,10 @@
 -upload or scan a leaf image
 -AI analyzes the image
 -app shows health status, problems, and solutions
+## App Screenshorts
+### Home screen
+![Home Screen](home.png0)
+### result screen
+![scan screen ](scan.png)
 ## Conclusion
 This project demostrates how AI can help farmers, gardeners, and students to detect plant diseases early and improve plant care.
